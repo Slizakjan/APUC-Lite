@@ -23,7 +23,7 @@ git clone https://github.com/Slizakjan/APUC-Lite.git
 ```
 ## ______How to run______
 ```bash
-cd APUC-Lite && python3 APUC-Generator.py
+cd APUC-Lite && python3 apuc-lite.py
 ```
 ## Version
 #### Currently there is only version 1 but soon will be version 2 with smart function
